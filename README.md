@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Alexander Mikhailov</h1>
 <h3 align="center">I`m C/C++ backend developer.</h3>
 
-- 🔭 I’m currently working on **Object-oriented system for common lisp**
+-  I’m currently working on **Object-oriented system for common lisp**
 
-- 🌱 I’m currently learning **C++ boost and Common LISP**
+-  I’m currently learning **C++ boost and Common LISP**
 
-- 📫 How to reach me **alexandermikhailov0505@gmail.com**
+-  How to reach me **alexandermikhailov0505@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> telegram: @ubangishari
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
