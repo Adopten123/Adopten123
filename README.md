@@ -7,8 +7,7 @@
 
 -  How to reach me **alexandermikhailov0505@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> telegram: @ubangishari
+<h3 align="left">Connect with me: @ubangishari (telegram)</h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
